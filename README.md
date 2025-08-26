@@ -1,6 +1,7 @@
 # LinkBlocker - Extensão Firefox
 
-**LinkBlocker** é uma extensão para Firefox que ajuda a controlar o consumo de links em sites, evitando o fenômeno que chamei de *DoomLinking* (baseado no *DoomScrolling*). A extensão bloqueia a aba automaticamente após atingir um limite configurável de links abertos, ajudando a manter foco e reduzir sobrecarga de informação.
+**LinkBlocker** é uma extensão para Firefox que ajuda a controlar o consumo de links em sites, evitando o fenômeno que chamei de _DoomLinking_ (baseado no _DoomScrolling_). A extensão bloqueia a aba automaticamente após atingir um limite configurável de links abertos, ajudando a manter foco e reduzir sobrecarga de informação.
+![alt text](Assets/screenshot_2025-08-26_14-44-17.png)
 
 ## Funcionalidades
 
