@@ -15,13 +15,6 @@
 - Interface simples e prática diretamente no navegador.
 - Ajuda a controlar hábitos de navegação e aumentar produtividade.
 
-## Instalação
-
-1. Baixe a extensão como arquivo `.xpi` ou via link de publicação no Firefox Add-ons.
-2. Abra o Firefox e vá em `Menu > Extensões e Temas > Instalar Add-on a partir de arquivo`.
-3. Selecione o arquivo `.xpi` e instale.
-4. Configure o limite de links e o tempo de bloqueio conforme suas necessidades.
-
 ## Como usar
 
 1. Abra qualquer site.
